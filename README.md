@@ -1,2 +1,2 @@
 # Bayarbaatar.github.io
-# Clinical Data Science
+Clinical Data Science
